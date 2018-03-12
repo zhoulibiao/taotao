@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Taotao-common/Taotao-common.iml" filepath="$PROJECT_DIR$/../Taotao-common/Taotao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Taotao-manager/Taotao-manager.iml" filepath="$PROJECT_DIR$/../Taotao-manager/Taotao-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Taotao-manager-dao/Taotao-manager-dao.iml" filepath="$PROJECT_DIR$/../Taotao-manager-dao/Taotao-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Taotao-manager-interface/Taotao-manager-interface.iml" filepath="$PROJECT_DIR$/../Taotao-manager-interface/Taotao-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Taotao-manager-pojo/Taotao-manager-pojo.iml" filepath="$PROJECT_DIR$/../Taotao-manager-pojo/Taotao-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Taotao-manager-service/Taotao-manager-service.iml" filepath="$PROJECT_DIR$/../Taotao-manager-service/Taotao-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Taotao-manager-web.iml" filepath="$PROJECT_DIR$/.idea/Taotao-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Taotao-parent/Taotao-parent.iml" filepath="$PROJECT_DIR$/../Taotao-parent/Taotao-parent.iml" />
+    </modules>
+  </component>
+</project>
